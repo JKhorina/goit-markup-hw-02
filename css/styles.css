@@ -37,9 +37,10 @@ body {
     color: var(--secondary-title-color);
 }
 
-/*.text-description {
-    color: var(--primary-text-color);
+.menu-list .menu-link.current {
+    color: var(--accent-color);
 }
+
 /* ----------------------Header----------------------- */
 .logo-header {
     font-family: 'Raleway', sans-serif;
